@@ -1,19 +1,19 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *BeReal. Clone*
 
-Submitted by: **Your Name Here**
+Submitted by: **Michael Waller**
 
-**Name of your app** is an app that ... [TODO] 
+**BeReal Clone** is an app that attempts to mirror the BeReal IOS application ...
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can register a new account
-- [ ] User can log in with newly created account
-- [ ] App has a feed of posts when user logs in
-- [ ] User can upload a new post which takes in a picture from photo library and a caption	
+- [x ] User can register a new account
+- [x ] User can log in with newly created account
+- [x ] App has a feed of posts when user logs in
+- [x ] User can upload a new post which takes in a picture from photo library and a caption	
  
 The following **optional** features are implemented:
 

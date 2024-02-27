@@ -17,11 +17,11 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [ ] User is able to logout
-- [ ] User stays logged in when app is closed and open again	
+- [ x] Users can pull to refresh their feed and see a loading indicator
+- [ x] Users can infinite-scroll in their feed to see past the 10 most recent photos
+- [ x] Users can see location and time of photo upload in the feed	
+- [ x] User is able to logout
+- [ x] User stays logged in when app is closed and open again	
 
 
 The following **additional** features are implemented:
@@ -30,9 +30,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Video Walkthrough Link Below
+[Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdqa3JwNGYxemZtNjhsNmZ6ajQ3M29sYTltZzBxeHd6dHpvYXE0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tCWL4kNh25HGoNI1s/giphy.gif)) .
 
 ## Notes
 
@@ -40,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Michael Waller]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

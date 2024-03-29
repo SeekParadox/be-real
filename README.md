@@ -1,3 +1,54 @@
-# ios102-lab5-spring23
+# Project 5 - *BeReal. Clone*
 
-![instaparse_walkthrough_1_xtra_small](https://user-images.githubusercontent.com/11927517/199710313-700aef85-ba89-427c-aa07-f89f0fdfdbbe.gif)
+Submitted by: **Michael Waller**
+
+**BeReal Clone** is an app that attempts to mirror the BeReal IOS application ...
+
+Time spent: **2** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x ] User can register a new account
+- [x ] User can log in with newly created account
+- [x ] App has a feed of posts when user logs in
+- [x ] User can upload a new post which takes in a picture from photo library and a caption	
+ 
+The following **optional** features are implemented:
+
+- [ x] Users can pull to refresh their feed and see a loading indicator
+- [ x] Users can infinite-scroll in their feed to see past the 10 most recent photos
+- [ x] Users can see location and time of photo upload in the feed	
+- [ x] User is able to logout
+- [ x] User stays logged in when app is closed and open again	
+
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
+
+Video Walkthrough Link Below
+[Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdqa3JwNGYxemZtNjhsNmZ6ajQ3M29sYTltZzBxeHd6dHpvYXE0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tCWL4kNh25HGoNI1s/giphy.gif)) .
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2024] [Michael Waller]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

@@ -1,4 +1,4 @@
-# Project 5 - *BeReal. Clone*
+# Project 6 - *BeReal. Clone*
 
 Submitted by: **Michael Waller**
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Video Walkthrough Link Below
-[Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdqa3JwNGYxemZtNjhsNmZ6ajQ3M29sYTltZzBxeHd6dHpvYXE0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tCWL4kNh25HGoNI1s/giphy.gif)) .
+https://youtu.be/KdaCDP8HIF4
 
 ## Notes
 

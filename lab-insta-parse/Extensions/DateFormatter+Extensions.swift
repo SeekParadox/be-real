@@ -2,15 +2,7 @@
 //  DateFormatter+Extensions.swift
 //  lab-insta-parse
 //
-//  Created by Charlie Hieger on 11/3/22.
+//  Created by Michael Waller on 3/27/24.
 //
 
 import Foundation
-
-extension DateFormatter {
-    static var postFormatter: DateFormatter = {
-        let formatter = DateFormatter()
-        formatter.dateStyle = .full
-        return formatter
-    }()
-}
